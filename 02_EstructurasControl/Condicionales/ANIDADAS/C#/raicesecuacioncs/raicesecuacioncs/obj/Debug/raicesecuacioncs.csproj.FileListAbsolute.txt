@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\raicesecuacioncs\raicesecuacioncs\bin\Debug\raicesecuacioncs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\raicesecuacioncs\raicesecuacioncs\bin\Debug\raicesecuacioncs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\raicesecuacioncs\raicesecuacioncs\bin\Debug\raicesecuacioncs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\raicesecuacioncs\raicesecuacioncs\obj\Debug\raicesecuacioncs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\raicesecuacioncs\raicesecuacioncs\obj\Debug\raicesecuacioncs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\raicesecuacioncs\raicesecuacioncs\obj\Debug\raicesecuacioncs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\raicesecuacioncs\raicesecuacioncs\obj\Debug\raicesecuacioncs.pdb
