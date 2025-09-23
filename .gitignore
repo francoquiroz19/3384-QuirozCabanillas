@@ -1,0 +1,19 @@
+# Ignorar carpetas de Visual Studio
+.vs/
+.vscode/
+
+# Ignorar archivos compilados y temporales
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.cache
+*.dll
+*.lib
+
+# Ignorar archivos de sistema
+Thumbs.db
+.DS_Store
+
+
