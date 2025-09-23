@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\Mostrarmesydíassegunnum1a12cs\Mostrarmesydíassegunnum1a12cs\bin\Debug\Mostrarmesydíassegunnum1a12cs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\Mostrarmesydíassegunnum1a12cs\Mostrarmesydíassegunnum1a12cs\bin\Debug\Mostrarmesydíassegunnum1a12cs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\Mostrarmesydíassegunnum1a12cs\Mostrarmesydíassegunnum1a12cs\bin\Debug\Mostrarmesydíassegunnum1a12cs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\Mostrarmesydíassegunnum1a12cs\Mostrarmesydíassegunnum1a12cs\obj\Debug\Mostrarmesydíassegunnum1a12cs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\Mostrarmesydíassegunnum1a12cs\Mostrarmesydíassegunnum1a12cs\obj\Debug\Mostrarmesydíassegunnum1a12cs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\Mostrarmesydíassegunnum1a12cs\Mostrarmesydíassegunnum1a12cs\obj\Debug\Mostrarmesydíassegunnum1a12cs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\Mostrarmesydíassegunnum1a12cs\Mostrarmesydíassegunnum1a12cs\obj\Debug\Mostrarmesydíassegunnum1a12cs.pdb
