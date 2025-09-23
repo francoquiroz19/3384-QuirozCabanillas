@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\VolumendeUnCilindro\VolumendeUnCilindro\bin\Debug\VolumendeUnCilindro.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\VolumendeUnCilindro\VolumendeUnCilindro\bin\Debug\VolumendeUnCilindro.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\VolumendeUnCilindro\VolumendeUnCilindro\bin\Debug\VolumendeUnCilindro.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\VolumendeUnCilindro\VolumendeUnCilindro\obj\Debug\VolumendeUnCilindro.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\VolumendeUnCilindro\VolumendeUnCilindro\obj\Debug\VolumendeUnCilindro.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\VolumendeUnCilindro\VolumendeUnCilindro\obj\Debug\VolumendeUnCilindro.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\VolumendeUnCilindro\VolumendeUnCilindro\obj\Debug\VolumendeUnCilindro.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\VolumendeUnCilindro\VolumendeUnCilindro\obj\Debug\VolumendeUnCilindro.exe.config
