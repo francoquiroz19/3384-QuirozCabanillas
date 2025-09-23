@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\promedionotascs\promedionotascs\bin\Debug\promedionotascs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\promedionotascs\promedionotascs\bin\Debug\promedionotascs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\promedionotascs\promedionotascs\bin\Debug\promedionotascs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\promedionotascs\promedionotascs\obj\Debug\promedionotascs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\promedionotascs\promedionotascs\obj\Debug\promedionotascs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\promedionotascs\promedionotascs\obj\Debug\promedionotascs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\promedionotascs\promedionotascs\obj\Debug\promedionotascs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\promedionotascs\promedionotascs\obj\Debug\promedionotascs.exe.config

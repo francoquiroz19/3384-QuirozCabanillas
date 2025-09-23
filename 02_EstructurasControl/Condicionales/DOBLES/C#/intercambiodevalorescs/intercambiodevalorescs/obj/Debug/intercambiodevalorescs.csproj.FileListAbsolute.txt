@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\intercambiodevalorescs\intercambiodevalorescs\bin\Debug\intercambiodevalorescs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\intercambiodevalorescs\intercambiodevalorescs\bin\Debug\intercambiodevalorescs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\intercambiodevalorescs\intercambiodevalorescs\bin\Debug\intercambiodevalorescs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\intercambiodevalorescs\intercambiodevalorescs\obj\Debug\intercambiodevalorescs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\intercambiodevalorescs\intercambiodevalorescs\obj\Debug\intercambiodevalorescs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\intercambiodevalorescs\intercambiodevalorescs\obj\Debug\intercambiodevalorescs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\intercambiodevalorescs\intercambiodevalorescs\obj\Debug\intercambiodevalorescs.pdb
