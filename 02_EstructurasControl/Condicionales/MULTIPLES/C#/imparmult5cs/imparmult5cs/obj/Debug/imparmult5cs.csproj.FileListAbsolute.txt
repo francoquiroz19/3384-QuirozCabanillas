@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\imparmult5cs\imparmult5cs\bin\Debug\imparmult5cs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\imparmult5cs\imparmult5cs\bin\Debug\imparmult5cs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\imparmult5cs\imparmult5cs\bin\Debug\imparmult5cs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\imparmult5cs\imparmult5cs\obj\Debug\imparmult5cs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\imparmult5cs\imparmult5cs\obj\Debug\imparmult5cs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\imparmult5cs\imparmult5cs\obj\Debug\imparmult5cs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\imparmult5cs\imparmult5cs\obj\Debug\imparmult5cs.pdb
