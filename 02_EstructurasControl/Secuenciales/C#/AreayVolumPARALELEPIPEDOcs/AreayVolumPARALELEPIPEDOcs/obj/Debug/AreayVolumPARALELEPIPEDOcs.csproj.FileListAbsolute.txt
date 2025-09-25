@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\AreayVolumPARALELEPIPEDOcs\AreayVolumPARALELEPIPEDOcs\bin\Debug\AreayVolumPARALELEPIPEDOcs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\AreayVolumPARALELEPIPEDOcs\AreayVolumPARALELEPIPEDOcs\bin\Debug\AreayVolumPARALELEPIPEDOcs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\AreayVolumPARALELEPIPEDOcs\AreayVolumPARALELEPIPEDOcs\bin\Debug\AreayVolumPARALELEPIPEDOcs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\AreayVolumPARALELEPIPEDOcs\AreayVolumPARALELEPIPEDOcs\obj\Debug\AreayVolumPARALELEPIPEDOcs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\AreayVolumPARALELEPIPEDOcs\AreayVolumPARALELEPIPEDOcs\obj\Debug\AreayVolumPARALELEPIPEDOcs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\AreayVolumPARALELEPIPEDOcs\AreayVolumPARALELEPIPEDOcs\obj\Debug\AreayVolumPARALELEPIPEDOcs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\AreayVolumPARALELEPIPEDOcs\AreayVolumPARALELEPIPEDOcs\obj\Debug\AreayVolumPARALELEPIPEDOcs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\AreayVolumPARALELEPIPEDOcs\AreayVolumPARALELEPIPEDOcs\obj\Debug\AreayVolumPARALELEPIPEDOcs.exe.config
