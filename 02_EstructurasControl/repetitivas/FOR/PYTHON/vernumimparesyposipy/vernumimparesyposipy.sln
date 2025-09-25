@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "vernumimparesyposipy", "vernumimparesyposipy\vernumimparesyposipy.pyproj", "{91DC8F70-90DD-4D73-9286-FD8CDFEB6C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DC8F70-90DD-4D73-9286-FD8CDFEB6C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DC8F70-90DD-4D73-9286-FD8CDFEB6C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {770B160E-181D-48D8-B692-40088BE71720}
+	EndGlobalSection
+EndGlobal
