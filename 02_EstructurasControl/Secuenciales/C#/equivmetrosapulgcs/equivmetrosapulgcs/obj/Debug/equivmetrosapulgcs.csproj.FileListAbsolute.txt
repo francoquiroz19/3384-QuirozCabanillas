@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\equivmetrosapulgcs\equivmetrosapulgcs\bin\Debug\equivmetrosapulgcs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\equivmetrosapulgcs\equivmetrosapulgcs\bin\Debug\equivmetrosapulgcs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\equivmetrosapulgcs\equivmetrosapulgcs\bin\Debug\equivmetrosapulgcs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\equivmetrosapulgcs\equivmetrosapulgcs\obj\Debug\equivmetrosapulgcs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\equivmetrosapulgcs\equivmetrosapulgcs\obj\Debug\equivmetrosapulgcs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\equivmetrosapulgcs\equivmetrosapulgcs\obj\Debug\equivmetrosapulgcs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\equivmetrosapulgcs\equivmetrosapulgcs\obj\Debug\equivmetrosapulgcs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\equivmetrosapulgcs\equivmetrosapulgcs\obj\Debug\equivmetrosapulgcs.exe.config
