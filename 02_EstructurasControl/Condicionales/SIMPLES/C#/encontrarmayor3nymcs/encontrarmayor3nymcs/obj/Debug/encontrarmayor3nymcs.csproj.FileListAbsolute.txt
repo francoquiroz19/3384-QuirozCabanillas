@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\encontrarmayor3nymcs\encontrarmayor3nymcs\bin\Debug\encontrarmayor3nymcs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\encontrarmayor3nymcs\encontrarmayor3nymcs\bin\Debug\encontrarmayor3nymcs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\encontrarmayor3nymcs\encontrarmayor3nymcs\bin\Debug\encontrarmayor3nymcs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\encontrarmayor3nymcs\encontrarmayor3nymcs\obj\Debug\encontrarmayor3nymcs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\encontrarmayor3nymcs\encontrarmayor3nymcs\obj\Debug\encontrarmayor3nymcs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\encontrarmayor3nymcs\encontrarmayor3nymcs\obj\Debug\encontrarmayor3nymcs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\encontrarmayor3nymcs\encontrarmayor3nymcs\obj\Debug\encontrarmayor3nymcs.pdb
