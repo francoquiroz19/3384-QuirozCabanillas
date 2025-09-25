@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\verpromealumnscs\verpromealumnscs\bin\Debug\verpromealumnscs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\verpromealumnscs\verpromealumnscs\bin\Debug\verpromealumnscs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\verpromealumnscs\verpromealumnscs\bin\Debug\verpromealumnscs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\verpromealumnscs\verpromealumnscs\obj\Debug\verpromealumnscs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\verpromealumnscs\verpromealumnscs\obj\Debug\verpromealumnscs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\verpromealumnscs\verpromealumnscs\obj\Debug\verpromealumnscs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\verpromealumnscs\verpromealumnscs\obj\Debug\verpromealumnscs.pdb
