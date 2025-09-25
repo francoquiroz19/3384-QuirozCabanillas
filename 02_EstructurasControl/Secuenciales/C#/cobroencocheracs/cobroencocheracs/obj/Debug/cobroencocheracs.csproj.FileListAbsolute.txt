@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\cobroencocheracs\cobroencocheracs\obj\Debug\cobroencocheracs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\cobroencocheracs\cobroencocheracs\obj\Debug\cobroencocheracs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\cobroencocheracs\cobroencocheracs\bin\Debug\cobroencocheracs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\cobroencocheracs\cobroencocheracs\bin\Debug\cobroencocheracs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\cobroencocheracs\cobroencocheracs\bin\Debug\cobroencocheracs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\cobroencocheracs\cobroencocheracs\obj\Debug\cobroencocheracs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\cobroencocheracs\cobroencocheracs\obj\Debug\cobroencocheracs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\cobroencocheracs\cobroencocheracs\obj\Debug\cobroencocheracs.exe.config
