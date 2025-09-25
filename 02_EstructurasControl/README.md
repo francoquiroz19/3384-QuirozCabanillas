@@ -16,3 +16,9 @@ Contiene programas que toman decisiones usando estructuras condicionales:
 - **Anidadas**: Condicionales dentro de otras condicionales.
 - **Múltiples**: Uso de `switch` o múltiples condiciones.
   - Ejemplo: Impuesto de renta según UITS (C#).
+- ## Repetitivas
+Contiene ejercicios que repiten instrucciones usando bucles:
+- **For**: Ejercicios de conteo y sumatoria (C# y Python).
+  - Ejemplo: Sumar números pares entre 100 y 200.
+- **While**: Ejercicios que repiten mientras se cumpla una condición.
+- **DoWhile**: Ejercicios que garantizan al menos una ejecución.
