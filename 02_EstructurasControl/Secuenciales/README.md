@@ -11,6 +11,9 @@ Ejercicios incluidos:
    - Lenguajes: C#, Python
    - Descripción: El programa solicita al usuario la altura y el radio de un cilindro, calcula el área de la base y el volumen total, y muestra los resultados.
    - Objetivo: Aplicar fórmulas matemáticas y uso de variables de tipo flotante y doble.
+	
+3. Equivalencia de metros a pulgadas
+
 
 Observaciones:
 - Todos los programas siguen una estructura secuencial clara: entrada → procesamiento → salida.
