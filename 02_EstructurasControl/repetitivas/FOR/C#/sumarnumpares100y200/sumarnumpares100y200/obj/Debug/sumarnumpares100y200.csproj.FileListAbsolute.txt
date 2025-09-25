@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\sumarnumpares100y200\sumarnumpares100y200\bin\Debug\sumarnumpares100y200.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\sumarnumpares100y200\sumarnumpares100y200\bin\Debug\sumarnumpares100y200.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\sumarnumpares100y200\sumarnumpares100y200\bin\Debug\sumarnumpares100y200.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\sumarnumpares100y200\sumarnumpares100y200\obj\Debug\sumarnumpares100y200.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\sumarnumpares100y200\sumarnumpares100y200\obj\Debug\sumarnumpares100y200.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\sumarnumpares100y200\sumarnumpares100y200\obj\Debug\sumarnumpares100y200.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\sumarnumpares100y200\sumarnumpares100y200\obj\Debug\sumarnumpares100y200.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\sumarnumpares100y200\sumarnumpares100y200\obj\Debug\sumarnumpares100y200.exe.config
