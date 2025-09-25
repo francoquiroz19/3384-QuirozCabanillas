@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\vernumimparesyposics\vernumimparesyposics\bin\Debug\vernumimparesyposics.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\vernumimparesyposics\vernumimparesyposics\bin\Debug\vernumimparesyposics.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\vernumimparesyposics\vernumimparesyposics\bin\Debug\vernumimparesyposics.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\vernumimparesyposics\vernumimparesyposics\obj\Debug\vernumimparesyposics.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\vernumimparesyposics\vernumimparesyposics\obj\Debug\vernumimparesyposics.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\vernumimparesyposics\vernumimparesyposics\obj\Debug\vernumimparesyposics.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\vernumimparesyposics\vernumimparesyposics\obj\Debug\vernumimparesyposics.pdb
