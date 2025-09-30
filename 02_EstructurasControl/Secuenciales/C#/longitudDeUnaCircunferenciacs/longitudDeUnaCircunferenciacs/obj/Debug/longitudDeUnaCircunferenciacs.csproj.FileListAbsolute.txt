@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\longitudDeUnaCircunferenciacs\longitudDeUnaCircunferenciacs\bin\Debug\longitudDeUnaCircunferenciacs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\longitudDeUnaCircunferenciacs\longitudDeUnaCircunferenciacs\bin\Debug\longitudDeUnaCircunferenciacs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\longitudDeUnaCircunferenciacs\longitudDeUnaCircunferenciacs\bin\Debug\longitudDeUnaCircunferenciacs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\longitudDeUnaCircunferenciacs\longitudDeUnaCircunferenciacs\obj\Debug\longitudDeUnaCircunferenciacs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\longitudDeUnaCircunferenciacs\longitudDeUnaCircunferenciacs\obj\Debug\longitudDeUnaCircunferenciacs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\longitudDeUnaCircunferenciacs\longitudDeUnaCircunferenciacs\obj\Debug\longitudDeUnaCircunferenciacs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\longitudDeUnaCircunferenciacs\longitudDeUnaCircunferenciacs\obj\Debug\longitudDeUnaCircunferenciacs.pdb
