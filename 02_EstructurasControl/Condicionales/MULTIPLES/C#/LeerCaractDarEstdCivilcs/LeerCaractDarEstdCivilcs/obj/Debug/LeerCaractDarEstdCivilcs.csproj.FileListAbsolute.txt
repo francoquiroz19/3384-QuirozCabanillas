@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\LeerCaractDarEstdCivilcs\LeerCaractDarEstdCivilcs\bin\Debug\LeerCaractDarEstdCivilcs.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp1\LeerCaractDarEstdCivilcs\LeerCaractDarEstdCivilcs\bin\Debug\LeerCaractDarEstdCivilcs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\LeerCaractDarEstdCivilcs\LeerCaractDarEstdCivilcs\bin\Debug\LeerCaractDarEstdCivilcs.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\LeerCaractDarEstdCivilcs\LeerCaractDarEstdCivilcs\obj\Debug\LeerCaractDarEstdCivilcs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\LeerCaractDarEstdCivilcs\LeerCaractDarEstdCivilcs\obj\Debug\LeerCaractDarEstdCivilcs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\LeerCaractDarEstdCivilcs\LeerCaractDarEstdCivilcs\obj\Debug\LeerCaractDarEstdCivilcs.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\LeerCaractDarEstdCivilcs\LeerCaractDarEstdCivilcs\obj\Debug\LeerCaractDarEstdCivilcs.pdb
